@@ -1,0 +1,28 @@
+html{
+  background:lightgray;
+}
+
+#head {
+  background:#444444;
+  z-index: 1;
+  min-width: 100%;
+  min-height: 200px;
+
+}
+.middle{
+  background:#EFEFEF;
+  width:75%;
+  height:100vw;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#bottom{
+  background: #222222;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  height:10vh;
+
+}
